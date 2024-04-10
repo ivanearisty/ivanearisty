@@ -1,28 +1,30 @@
 <h1 align="center"> Hi There! Welcome to my corner of GitHub 😄 </h1>
 <h3 align="center"> NYU Tandon Pre-Masters Student 🎓 | Currently Mastering DSA 💡 | Based in New York City 🗽 </h3>
 
-- 🖥️ Currently working on [Object Oriented Spotify](https://github.com/ivanearisty/ObjectOrientedSpotify) with **Java, Spring, SQL, TypeScript, and Angular 17**
+---
 
-- 🤝 I have experience with **NER Models**, check out [this](https://github.com/ivanearisty/MLPromos) project I built with FastAPI and MongoDB!
+- 🖥️ Currently working on my passion project, [Object Oriented Spotify](https://github.com/ivanearisty/ObjectOrientedSpotify), with **Java, Spring, SQL, TypeScript, and Angular 17**
 
-- 📝 Checkout my [LeetCode Profile](https://leetcode.com/suape/) where I have posted a cool, in-depth solutions like these ones:
+- 📝 Checkout my [LeetCode Profile](https://leetcode.com/suape/) where I have posted cool, in-depth solutions like these ones:
   > [Course Schedule: Deep dive w/ Pictures, Metaphors, Intuition, and Proofs](https://leetcode.com/problems/course-schedule/solutions/4364129/deep-dive-w-pictures-metaphors-intuition-and-proofs/)  
   > [Rotate Image w/ Discrete Math](https://leetcode.com/problems/rotate-image/solutions/4824208/discrete-math-2-loops-simple-with-no-tricks/)  
   > [Max Square: Pure DP w/ Visuals](https://leetcode.com/problems/maximal-square/solutions/4293950/plain-dp-w-visual-comments/)  
 
-- 📫 How to reach me: **iae225@stern.nyu.edu** 
+- 🧑‍💻 I have experience with **NER Models**, check out [this](https://github.com/ivanearisty/MLPromos) project I built with FastAPI and MongoDB!
 
 - 📄 Find out more about my experiences in my [Resume](https://drive.google.com/file/d/1_QwRiIHuuLBHMC8m0xOONTxDMUj9EfR5/view?usp=sharing)
 
+- 👨‍🎓 I was an OOP and Java tutor for NYU CS, feel free to reach out for tutoring services below!
+
 - Some of my interests: 🏃 Running, 🏋️ Weight Training, 🏎️ Motorsports, 🛹 Skating, ♟️ Chess, 🎛️ Djing, 🎮 Esports, ☕ Pour-Over-Coffee-Enjoyer and 🐋 Reading
+
+- 📫 How to reach me: **https://veilmail.io/ivan**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/deepakvrma14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="deepakvrma14" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/deepakvrma14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepakvrma14" height="30" width="40" /></a>
-<a href="https://instagram.com/deepak_vrma13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="deepak_vrma13" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/deepakverma14821" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="deepakverma14821" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/deepakvrma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="phoenixblade" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aristy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aristy" height="30" width="40" /></a>
+<a href="https://instagram.com/ivanaristy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ivanaristy" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/suape" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="suape" height="30" width="40" /></a>
 </p>
 
 # 💻 Tech Stack:
