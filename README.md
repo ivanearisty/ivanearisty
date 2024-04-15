@@ -95,7 +95,7 @@
 [RxJs-url]: https://rxjs.dev 
 [Docker.com]: https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white
 [Docker-url]: https://www.docker.com/
-[Cpp.com]: https://img.shields.io/badge/-C++-blue?logo=cplusplus
+[Cpp.com]: https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white
 [Cpp-url]: https://cplusplus.com/
 [MongoDB.com]: https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white
 [MongoDB-url]: https://www.mongodb.com/
