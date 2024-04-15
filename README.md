@@ -47,7 +47,7 @@
 [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 
 ## Tools
-Linux CLI
+![Linux CLI][LinuxCLI.com]
 ![Git][Git.com]
 ![Postman][Postman.com]
 [![Docker][Docker.com]][Docker-url]
@@ -62,7 +62,7 @@ Linux CLI
 ![HTML][HTML.com]
 ![CSS][CSS.com]
 ![YML][YML.com]
-
+![Latex][Latex.com]
 
 ---
 <p align="left">
@@ -112,3 +112,5 @@ Linux CLI
 [HTML.com]: https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white
 [CSS.com]: https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white
 [YML.com]: https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515
+[LinuxCLI.com]: https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black
+[Latex.com]: https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white
