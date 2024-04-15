@@ -53,16 +53,15 @@ Linux CLI
 [![Docker][Docker.com]][Docker-url]
 ![Obsidian][Obsidian.com]
 ![Notion][Notion.com]
-IntelliJ Idea
-Visual Studio Code
-
+![IntelliJ Idea][IntelliJIdea.com]
+![Visual Studio Code][VisualStudioCode.com]
+![Anaconda][Anaconda.com]
 
 ## Markups
-Markdown
-HTML
-CSS
-XML
-YML
+![Markdown][Markdown.com]
+![HTML][HTML.com]
+![CSS][CSS.com]
+![YML][YML.com]
 
 
 ---
@@ -106,4 +105,9 @@ YML
 [Obsidian.com]: https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white
 [Notion.com]: https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white
 [Anaconda.com]: https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white
-
+[IntelliJIdea.com]: https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white
+[VisualStudioCode.com]: https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white
+[Markdown.com]: https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white
+[HTML.com]: https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white
+[CSS.com]: https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white
+[YML.com]: https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515
