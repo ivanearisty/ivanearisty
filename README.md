@@ -65,10 +65,11 @@ Linux CLI
 
 
 ---
+<p align="left">
+</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanearisty&theme=synthwave&show_icons=true&hide_border=true&layout=normal" alt="stats" /></p>
 
-![ivanearisty's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ivanearisty&theme=synthwave&show_icons=true&hide_border=true&layout=compact)
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/suape?theme=nord&font=Syne&ext=activity)
+<p><img align="center" src="https://leetcard.jacoblin.cool/suape?theme=nord&font=Syne&ext=activity" alt="lcflash" /></p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
